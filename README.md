@@ -8,4 +8,4 @@ Notes:
 - The online highscore list is no longer functional because the online database was suspended due to inactivity.
 - The desktop launcher may no longer function due to changes in the library and minor tweaks in game code. To see
 the game in action, simply run the .jar file
--
+- Java source files can be found in /core/src/com/mygdx/game/  The rest of the files are part of LibGDX library which are created when creating a libGDX project
