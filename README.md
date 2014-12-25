@@ -1,6 +1,6 @@
 Game created by Nikola Andrejevic and Ilya Matveyev
 
-An arcade game for the PC where the player must use the arrow keys or "AWDS" to move the charecter around the screen to 
+An arcade game for the PC where the player must use the arrow keys or "AWDS" to move the character around the screen to 
 avoid the line obstacles and collect power-ups to survive as long as possible. Score is based mostly on how long the 
 player survives. The game also contains music and full visual and sounds effects.
 
